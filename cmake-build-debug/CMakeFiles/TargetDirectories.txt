@@ -1,0 +1,5 @@
+C:/Users/Gubin Zhao/OneDrive/桌面/学习/assignment2 281/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/学习/assignment2 281/cmake-build-debug/CMakeFiles/assignment2_1.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/学习/assignment2 281/cmake-build-debug/CMakeFiles/assignment2_2.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/学习/assignment2 281/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/学习/assignment2 281/cmake-build-debug/CMakeFiles/rebuild_cache.dir
